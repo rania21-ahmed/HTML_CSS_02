@@ -1,0 +1,210 @@
+.container
+{
+    width:1170px;
+    margin:auto
+}
+.clear
+{
+    clear: both;
+}
+/*start start*/
+.start
+{
+    overflow:hidden
+}
+.start .images , .start .text
+{
+    float:left;
+    width:50%
+}
+
+.start .images img
+{
+    background-color: #EEE;
+    padding:5px;
+    border: 2px solid #CCC;
+   
+}
+.start .text p:first-of-type
+{
+    color:#00F;
+    font-size:50px;
+    font-style: italic;
+    font-weight:bold;
+    margin:25px 0 0 0;
+    padding:0px;
+    text-align: center
+}
+.start .text .texts1
+{
+  font-size: 60px;
+  line-height:0.1;
+  letter-spacing:36px;
+  text-transform: uppercase;
+}
+.start .text .texts2
+{
+  font-size: 60px;
+  line-height:0.1;
+  letter-spacing:25px;
+  text-transform: uppercase;
+}
+.start .text .texts3
+{
+  font-size: 60px;
+  line-height:0.1;
+  letter-spacing:15px;
+  text-transform: uppercase;
+}
+/*End start*/
+
+/* start indesgin*/
+.indesgin
+{
+    background-color: #EEE;
+    overflow:hidden;
+    margin:30px 0;
+    text-align:center ;
+    border: 2px solid #CCC
+}
+.indesgin h1
+{
+    font-size:50px;
+    letter-spacing:2px;
+    text-transform: uppercase;
+    color:#00F
+}
+.indesgin .contact
+{
+    float:left;
+    width:50%;
+    background-color: #EEE;
+    overflow:hidden
+}
+.indesgin .contact img
+{
+    background-color: #CCC;
+    border:2px solid #00F;
+    margin:10px 0 5px 15px;
+    padding: 5px
+
+}
+.indesgin .contact p
+{
+    margin:10px 0 20px 15px;
+    font-size:30px;
+    font-weight: bold;
+    overflow:hidden
+}
+
+
+/*End indesgin*/
+
+/* start photoshop*/
+.photoshop
+{
+    background-color: #EEE;
+    overflow:hidden;
+    margin:30px 0;
+    text-align:center ;
+    border: 2px solid #CCC
+}
+.photoshop h1
+{
+    font-size:50px;
+    letter-spacing:2px;
+    text-transform: uppercase;
+    color:#00F
+}
+.photoshop .contact
+{
+    float:left;
+    width:50%;
+    background-color: #EEE;
+    overflow:hidden
+}
+.photoshop .contact img
+{
+    background-color: #CCC;
+    border:2px solid #00F;
+    margin:10px 0 5px 15px;
+    padding: 5px
+
+}
+.photoshop .contact p
+{
+    margin:10px 0 20px 15px;
+    font-size:30px;
+    font-weight: bold;
+    overflow:hidden
+}
+
+
+/*End photoshop*/
+
+/* start illustraror*/
+.illustraror
+{
+    background-color: #EEE;
+    overflow:hidden;
+    margin:20px 0;
+    text-align:center;
+    border: 2px solid #CCC 
+}
+.illustraror .contact
+{
+    float:left;
+    width:50%;
+    background-color: #EEE;
+    overflow:hidden
+}
+.illustraror h1
+{
+    font-size:50px;
+    letter-spacing:2px;
+    text-transform: uppercase;
+    color:#00F
+}
+.illustraror.contact
+{
+    float:left;
+    width:50%;
+    background-color: #EEE;
+    overflow:hidden
+}
+.illustraror .contact img
+{
+    background-color: #CCC;
+    border:2px solid #00F;
+    margin:10px 0 5px 15px;
+    padding: 5px
+
+}
+.illustraror .contact p
+{
+    margin:10px 0 20px 15px;
+    font-size:30px;
+    font-weight: bold;
+    overflow:hidden
+}
+
+
+
+/*End .illustraror*/
+
+/*start footer*/
+.footer
+{
+    background-color:#555;
+    padding:10px 0;
+    color:#FFF;
+    overflow:hidden;
+    text-align:center 
+}
+.footer .left ,.footer .right
+{
+    float:left;
+    width:50%;
+    font-size:30px
+}
+/*End footer*/
